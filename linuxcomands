@@ -1,0 +1,5 @@
+ cat command
+description it will use to display the content of a file mainly.it will also helpful to write content to a file.
+cat filename
+cat > filename
+

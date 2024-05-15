@@ -3,3 +3,6 @@ description it will use to display the content of a file mainly.it will also hel
 cat filename
 cat > filename
 
+tail
+description: It will display first 10 lines
+
